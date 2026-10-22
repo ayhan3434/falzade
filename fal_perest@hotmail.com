@@ -30,8 +30,9 @@
 <p>Bu gizlilik politikası, <strong>ayhan tekin</strong> tarafından geliştirilen ve Google Play'de <strong>FalZade</strong> adıyla (paket adı: com.orvix.falzade) yayınlanan mobil uygulama için geçerlidir. Uygulamayı kullanarak bu politikada açıklanan uygulamaları kabul etmiş olursunuz.</p>
 
 <h2>1. Topladığımız bilgiler</h2>
-  <li><strong>Fotoğraflar:</strong> Kahve fincanı, el falı veya tarot okuması için kameradan çektiğiniz ya da galeriden yüklediğiniz fotoğraflar. Kamera ve galeriye yalnızca siz fotoğraf eklemek istediğinizde erişilir.</li>
 <ul>
+  <li><strong>Fotoğraflar:</strong> Kahve fincanı, el falı veya tarot okuması için kameradan çektiğiniz ya da galeriden yüklediğiniz fotoğraflar. Kamera ve galeriye yalnızca siz fotoğraf eklemek istediğinizde erişilir.</li>
+  <li><strong>Hesap bilgileri:</strong> Kayıt olurken verdiğiniz e-posta adresi, kullanıcı adı ve (varsa) profil fotoğrafı.</li>
   <li><strong>Hesap bilgileri:</strong> Kayıt olurken verdiğiniz e-posta adresi, kullanıcı adı ve (varsa) profil fotoğrafı.</li>
   <li><strong>Paylaştığınız içerikler:</strong> Fal paylaşımlarınız, yorumlarınız, beğenileriniz ve profilinizde yer alan bilgiler.</li>
   <li><strong>Fal için girdiğiniz bilgiler:</strong> Fal baktırırken girdiğiniz metinler ve seçimler (örneğin burç, isim veya soru).</li>
