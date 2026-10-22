@@ -33,7 +33,6 @@
 <ul>
   <li><strong>Fotoğraflar:</strong> Kahve fincanı, el falı veya tarot okuması için kameradan çektiğiniz ya da galeriden yüklediğiniz fotoğraflar. Kamera ve galeriye yalnızca siz fotoğraf eklemek istediğinizde erişilir.</li>
   <li><strong>Hesap bilgileri:</strong> Kayıt olurken verdiğiniz e-posta adresi, kullanıcı adı ve (varsa) profil fotoğrafı.</li>
-  <li><strong>Hesap bilgileri:</strong> Kayıt olurken verdiğiniz e-posta adresi, kullanıcı adı ve (varsa) profil fotoğrafı.</li>
   <li><strong>Paylaştığınız içerikler:</strong> Fal paylaşımlarınız, yorumlarınız, beğenileriniz ve profilinizde yer alan bilgiler.</li>
   <li><strong>Fal için girdiğiniz bilgiler:</strong> Fal baktırırken girdiğiniz metinler ve seçimler (örneğin burç, isim veya soru).</li>
   <li><strong>Teknik bilgiler:</strong> Uygulamanın çalışması için gerekli cihaz ve kullanım bilgileri (örneğin hata kayıtları).</li>
@@ -50,7 +49,7 @@
 <p>Bilgileriniz satılmaz ve reklam amacıyla üçüncü kişilerle paylaşılmaz.</p>
 
 <h2>3. Yapay zeka ile fal yorumları</h2>
-<p>FalZade'deki fal yorumları yapay zeka tarafından üretilir. Fal baktırdığınızda girdiğiniz bilgiler, yorum oluşturulması için Anthropic (Claude) yapay zeka hizmetine gönderilir. Bu bilgiler yalnızca yorumun üretilmesi için kullanılır. Fal yorumları eğlence amaçlıdır; gerçek bir tahmin veya tavsiye niteliği taşımaz.</p>
+<p>FalZade'deki fal yorumları yapay zeka tarafından üretilir. Fal baktırdığınızda girdiğiniz bilgiler ve yüklediğiniz fotoğraflar, yorum oluşturulması için Anthropic (Claude) yapay zeka hizmetine gönderilir. Bu bilgiler yalnızca yorumun üretilmesi için kullanılır. Fal yorumları eğlence amaçlıdır; gerçek bir tahmin veya tavsiye niteliği taşımaz.</p>
 
 <h2>4. Kullandığımız üçüncü taraf hizmetler</h2>
 <ul>
