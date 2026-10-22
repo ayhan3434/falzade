@@ -76,7 +76,7 @@
 <h2>10. İletişim</h2>
 <p>Sorularınız için:<br>
 <strong>ayhan tekin</strong> — FalZade geliştiricisi<br>
-E-posta: fal_perest@hotmail.com</p>
+E-posta: fal_zade@hotmail.com</p>
 
 </body>
 </html>
